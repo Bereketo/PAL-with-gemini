@@ -41,7 +41,7 @@ In this project, PAL is critical for the following reasons:
 ### 1. **Clone the Repository**
 ```bash
 git clone https://github.com/bereketo/PAL-with-gemini.git
-cd your-repo-name
+cd PAL-with-gemini
 ```
 
 ### 2. **Install required packages**
