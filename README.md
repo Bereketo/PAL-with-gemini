@@ -1,4 +1,4 @@
-# PAL (Program-aided Language) using Gemini 1.5**
+# PAL (Program-aided Language) using Gemini 1.5
 
 This project leverages **Google's Generative AI Model (Gemini 1.5)** in conjunction with **Program-aided Language (PAL)** prompt engineering to automatically generate and execute Python code based on user-provided problem descriptions. The PAL methodology plays a pivotal role in improving the quality, relevance, and precision of code generation by framing the problem for the AI in a structured way that leads to more accurate code outputs.
 
